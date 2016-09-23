@@ -1,1 +1,1 @@
-This is for keeping my settings consistent thorugh different machines
+This is for keeping my settings consistent through different machines
